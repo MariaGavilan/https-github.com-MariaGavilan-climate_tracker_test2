@@ -1,4 +1,4 @@
-# 🌍 Climate Action Workshop: Carbon Footprint Calculator & Action Tracker
+# Climate Action Workshop: Carbon Footprint Calculator & Action Tracker
 
 
 **Interactive tools for measuring personal carbon footprint and planning reduction actions, built with MATLAB.**
@@ -14,7 +14,7 @@ Developed during the **Workshop** at **MATLAB EXPO 2025**, this project demonstr
 
 ---
 
-## 📊 Project Overview
+## Project Overview
 
 This repository contains a complete suite of MATLAB tools for:
 
@@ -33,30 +33,12 @@ This repository contains a complete suite of MATLAB tools for:
 ### Installation
 
 1. **Clone this repository:**
-```bash
-   git clone https://github.com/YOUR-USERNAME/UPDATE
-   cd UPDATE
-```
 
 2. **Open MATLAB and navigate to the project directory:**
-```matlab
-   cd('path/to/UPDATE')
-```
 
 3. **Run the exercises in order:**
 ```matlab
-   % Exercise 1: Transport Emissions Calculator
-   open('exercises/Ex1_TransportEmissions.mlx')
-   
-   % Exercise 2: Personal Carbon Footprint Tracker
-   open('exercises/Ex2_PersonalImpactStory.mlx')
-   
-   % Exercise 3: GitHub Publishing (you're here!)
-   open('exercises/Ex3_PublishToGitHub.mlx')
-   
-   % Exercise 4: Interactive Action Tracker
-   cd exercises
-   Ex4_CarbonActionTracker
+   open('Welcome.m')
 ```
 
 ---
@@ -86,7 +68,7 @@ Through this workshop at MATLAB EXPO 2025, I gained hands-on experience with:
 
 ---
 
-## 📈 Example Results
+## Example Results
 
 ### Personal Footprint Analysis (USA, Typical Commuter)
 - **Total Annual Emissions**: 8.5 tons CO₂e
@@ -101,7 +83,7 @@ Through this workshop at MATLAB EXPO 2025, I gained hands-on experience with:
 2.
 ---
 
-## 🔬 Data Sources & Methodology
+## Data Sources & Methodology
 
 This project uses emission factors and regional data from authoritative sources:
 
@@ -115,20 +97,15 @@ All emission factors are CO₂-equivalent (CO₂e), including methane and N₂O 
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 This project was created as an educational tool during MATLAB EXPO 2025. Contributions are welcome!
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-You are free to:
-- ✅ Use this code for personal or commercial projects
-- ✅ Modify and distribute
-- ✅ Include in your portfolio
 
 Just provide attribution to the original workshop and MathWorks.
 
@@ -148,9 +125,7 @@ tools, and educational resources, as well as the **Workshop facilitators** for e
 
 ---
 
-## 🌍 Making an Impact
-
-> *"Climate change is a problem that can be solved. Engineering is how we solve it."*
+## Making an Impact
 
 Every line of code in this project represents a commitment to data-driven climate action. By measuring, analyzing, and planning, we transform abstract emissions into concrete actions.
 
