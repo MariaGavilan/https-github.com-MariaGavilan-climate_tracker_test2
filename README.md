@@ -1,9 +1,9 @@
-# Climate Action Workshop: Carbon Footprint Calculator & Action Tracker
+# Hack Your Carbon Impact Workshop: Carbon Footprint Calculator & Action Tracker
 
 
 **Interactive tools for measuring personal carbon footprint and planning reduction actions, built with MATLAB.**
 
-Developed during the **Workshop** at **MATLAB EXPO 2025**, this project demonstrates how engineering and data analysis can drive evidence-based climate action.
+Developed during the **Hack Your Carbon Impact Workshop** at **MATLAB EXPO 2025**, this project demonstrates how engineering and data analysis can drive evidence-based climate action.
 
 ## Contact & Feedback
 
